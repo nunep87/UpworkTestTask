@@ -1,0 +1,7 @@
+{
+  "CHROME": "chrome",
+  "SAFARI": "safari",
+  "FIREFOX": "firefox",
+  "IE": "internet explorer",
+  "ALL": "all"
+}

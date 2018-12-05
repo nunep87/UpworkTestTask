@@ -1,0 +1,5 @@
+{
+ "description": "div > h1.display-1",
+ "txtFindFreelancers": "[placeholder='Find Freelancers']",
+ "btnSearch": "button.p-0-left-right[type='submit']"
+}

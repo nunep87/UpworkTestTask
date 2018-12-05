@@ -1,0 +1,9 @@
+{
+  "name": "h4 > a.freelancer-tile-name",
+  "title": ".m-0[data-qa='tile_title']",
+  "description": "div.d-none > p",
+  "pageTitle": "#oSearchContractorsHeader",
+  "modalName": "h2.m-xs-bottom > span",
+  "modalTitle": "div.up-active-container > h3 > span",
+  "modalDesc": "div > p.up-active-context.break"
+}

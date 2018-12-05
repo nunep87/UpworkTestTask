@@ -1,0 +1,4 @@
+{
+  "SELENIUM_SERVER_URL": "http://localhost:4444/wd/hub",
+  "SELENIUM_SERVER_URL_SAFARI": "http://10.99.200.142:4444/wd/hub"
+}
